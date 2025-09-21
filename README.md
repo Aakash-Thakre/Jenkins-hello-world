@@ -1,5 +1,5 @@
 # Springboot Hello World App
-This repository is used for Jenkins Training Demo
+This repository is used for Jenkins Learning Demo
 
 ### Build JAR
 ```
@@ -10,9 +10,6 @@ mvn clean package -DskipTests=true
 ```
 mvn test
 ```
-- Total 6 test cases, out of which
-  - 5 test cases will pass and 
-  - 1 test case fails!
  
 ### Deploy/Run
 ```
